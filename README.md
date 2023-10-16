@@ -1,6 +1,6 @@
 # Projeto de exerccio
-This is my first project with HTML, CSS and JS. Made while I do courses of this languages on "curso em Vídeo" by Gustavo Guanabara.
-This simple project it's a site that show your real hour and change the image according to the hour.
+These are my first projects with HTML, CSS and JS. Made it while I do  the courses of this languages on "curso em Vídeo" by Gustavo Guanabara.
+These simple projects are just to pratice a little bit.
 
-Este é meu primeiro projeto com HTML, CSS e JS. Feito enquanto faço os curso dessas linguagens no "Curso em Vídeo" do Gustavo Guanabara.
-Esse simples projeto é um site que mostra a hora e muda de imagem de acordo com a hora do dia.
+Estes são meus primeiro projetos com HTML, CSS e JS. Feito enquanto faço os curso dessas linguagens no "Curso em Vídeo" do Gustavo Guanabara.
+Esses simples projetos são apenas para praticar um pouco.
